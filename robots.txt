@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: http://alter-pulse.itsinsta.site//sitemap.xml
+Sitemap: https://alter-pulse.itsinsta.site//sitemap.xml
